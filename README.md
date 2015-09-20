@@ -1,2 +1,2 @@
 # basehtml
-Pagina html base
+Pagina html base o pagina di attesa
