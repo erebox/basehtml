@@ -3,7 +3,7 @@ $titolo="erebox.it";
 $year=date("Y");
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<html lang="en">
 
 <head>
 	<title><?=$titolo?></title>
@@ -14,7 +14,7 @@ $year=date("Y");
 <body>
 	<div class="cont">
 		<div class="head"><?=$titolo?></div>
-		<div class="page"><img alt="Logo" src="img/logo.png"></div>
+		<div class="page"><img src="img/logo.png" alt="Logo"></div>
 	</div>
 	<div class="foot">&copy; <?=$year;?> Erebox</div>
 </body>
